@@ -189,7 +189,7 @@ GROUP BY internetservice;
 
 ---
 
-## 💡 Key Findings
+##  Key Findings
 
 ### Contract Type Impact
 
@@ -226,11 +226,11 @@ Potential retention strategies include:
 
 ### Executive Dashboard
 
-![Executive Dashboard](screenshots/executive_dashboard.png)
+![Executive Dashboard](Screenshots/executive_dashboard.png)
 
 ### Churn Analysis Dashboard
 
-![Churn Analysis Dashboard](screenshots/churn_analysis_dashboard.png)
+![Churn Analysis Dashboard](Screenshots/churn_analysis_dashboard.png)
 
 ---
 
